@@ -1,0 +1,22 @@
+table{
+    background-color: aquamarine;
+    border: 1px solid blue;
+    color: black;    
+    font-weight: bold;
+    margin: 20;
+    padding: 10;
+
+}
+#tabela1{
+    background-color: white;
+}
+.plava_tabela{
+    background-color: blue;
+}
+.zuta_tabela{
+    background-color: yellow;
+}
+
+#tabela2 thead th:nth-child(1){
+    background-color: blueviolet;
+}
